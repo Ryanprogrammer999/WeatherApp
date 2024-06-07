@@ -1,7 +1,6 @@
 # WeatherApp
 Een weerapplicatie die het weer weergeeft
 
-Mijn applicatie werkt niet ik krijg altijd een error "Kon het weer niet ophalen" , ik heb geprobeerd om het op te lossen maar zonder succes.
 
 Ik gebruikte de API van OpenWeather voor dit applicatie.
 
